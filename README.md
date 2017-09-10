@@ -9,3 +9,5 @@ using Python. Various libraries such as numpy, swing were used to build this mod
 
 This project was an implementation of a Google's research paper: Building a Sentiment
 Summarizer for Local Service Reviews.
+
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/34368.pdf
